@@ -299,6 +299,9 @@
 
   <!-- My changes -->
   <project path="android" name="Efpophis/POFS_manifest" remote="github" />
+  
+  <!-->
   <project path="kernel/samsung/aries" name="Efpophis/POFS" remote="github" revision="fpofs" />
-
+  <-->
+  
 </manifest>
