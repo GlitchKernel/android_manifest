@@ -18,8 +18,9 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   
-  <!-- use glitch's recovery -->
+  <!-- using my own recovery which i git manually, thanks >
   <project path="bootable/recovery" name="Tk-Glitch/android_bootable_recovery" remote="github" />
+  <-->
   
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="development" name="CyanogenMod/android_development" remote="github" />
@@ -298,7 +299,10 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" />
 
   <!-- My changes -->
-  <project path="android" name="Efpophis/android" remote="github" />
+  <project path="android" name="Efpophis/POFS_manifest" remote="github" />
+  
+  <!-->
   <project path="kernel/samsung/aries" name="Efpophis/POFS" remote="github" revision="fpofs" />
-
+  <-->
+  
 </manifest>
