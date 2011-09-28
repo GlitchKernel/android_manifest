@@ -9,7 +9,7 @@
            review="review.cyanogenmod.com" />
            
   <remote  name="efpophis"
-           fetch="https://Efpophis@github.com" />
+           fetch="git@github.com" />
 
   <default revision="gingerbread"
            remote="github" />
