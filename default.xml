@@ -329,8 +329,8 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="android" name="Efpophis/POFS_manifest" remote="efpophis" />
-  <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" />  
-  <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="fascinate" />
+  <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" revision="smasher816" />  
+  <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="v12B3" />
   
 
 </manifest>
