@@ -330,7 +330,7 @@
 
   <project path="android" name="Efpophis/POFS_manifest" remote="efpophis" />
   <project path="bootable/recovery" name="Efpophis/android_bootable_recovery" remote="efpophis" revision="smasher816" />  
-  <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="v12B3" />
+  <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="fascinate" />
   
 
 </manifest>
