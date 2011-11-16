@@ -85,7 +85,7 @@
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common"/>
+  
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
   <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" />
@@ -332,6 +332,6 @@
   <project path="android" name="Efpophis/POFS_manifest" remote="efpophis" />
   <project path="bootable/recovery" name="Efpophis/android_bootable_recovery" remote="efpophis" revision="smasher816" />  
   <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="V13" />
-  
+  <project path="device/samsung/aries-common" name="Efpophis/android_device_samsung_aries-common" remote="efpophis" revision="glitch"/>
 
 </manifest>
