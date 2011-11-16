@@ -334,7 +334,7 @@
   <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="V13" />
   <project path="device/samsung/aries-common" name="Efpophis/android_device_samsung_aries-common" remote="efpophis" revision="glitch" />
   <project path="device/samsung/captivatemtd" name="Efpophis/android_device_samsung_captivatemtd" remote="efpophis" revision="glitch" />
-  <project path="device/samsung/fascinatemtd" name="Efpophis/android_device_samsung_fascinatemtd"remote="efpophis" revision="glitch" />
+  <project path="device/samsung/fascinatemtd" name="Efpophis/android_device_samsung_fascinatemtd" remote="efpophis" revision="glitch" />
   <project path="device/samsung/galaxysmtd" name="Efpophis/android_device_samsung_galaxysmtd" remote="efpophis" revision="glitch" />
   <project path="device/samsung/vibrantmtd" name="Efpophis/android_device_samsung_vibrantmtd" remote="efpophis" revision="glitch" />
 </manifest>
