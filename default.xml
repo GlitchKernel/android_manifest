@@ -85,7 +85,7 @@
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
+  <project path="device/samsung/aries-common" name="Efpophis/android_device_samsung_aries-common" revision="glitch"/>
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
   <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" />
@@ -94,7 +94,7 @@
   <project path="device/samsung/crespo4g" name="CyanogenMod/android_device_samsung_crespo4g" />
   <project path="device/samsung/epic4g" name="CyanogenMod/android_device_samsung_epic4g" />
   <project path="device/samsung/fascinate" name="CyanogenMod/android_device_samsung_fascinate" />
-  <project path="device/samsung/fascinatemtd" name="CyanogenMod/android_device_samsung_fascinatemtd" />
+  <project path="device/samsung/fascinatemtd" name="Efpophis/android_device_samsung_fascinatemtd" revision="glitch"/>
   <project path="device/samsung/galaxyace" name="CyanogenMod/android_device_samsung_galaxyace" />
   <project path="device/samsung/galaxys2" name="CyanogenMod/android_device_samsung_galaxys2" />
   <project path="device/samsung/galaxys2att" name="CyanogenMod/android_device_samsung_galaxys2att"/>
@@ -330,7 +330,7 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="android" name="Efpophis/POFS_manifest" remote="efpophis" />
-  <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" />  
+  <project path="bootable/recovery" name="Efpophis/android_bootable_recovery" remote="efpophis" revision="smasher816" />  
   <project path="kernel/samsung/aries" name="Efpophis/Glitch" remote="efpophis" revision="fascinate" />
   
 
