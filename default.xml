@@ -329,7 +329,7 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="android" name="GlitchKernel/android_manifest" remote="glitch" />
+  <project path="android" name="GlitchKernel/android_manifest" remote="glitch" revision="gingerbread" />
   <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" remote="glitch" revision="smasher816" />  
   <project path="kernel/samsung/aries" name="GlitchKernel/Glitch" remote="glitch" revision="V13" />
   <project path="device/samsung/aries-common" name="GlitchKernel/android_device_samsung_aries-common" remote="glitch" revision="glitch" />
