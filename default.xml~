@@ -7,13 +7,10 @@
   <remote  name="github"
            fetch="https://github.com/" 
            review="review.cyanogenmod.com" />
-
-  <remote  name="github-https"
-           fetch="https://github.com/" 
-           review="review.cyanogenmod.com" />
            
-  <remote  name="THS"
-           fetch="https://github.com/"/>
+  <remote  name="github-https"
+           fetch="https://github.com/"
+           review="review.cyanogenmod.com" />
 
   <default revision="refs/heads/ics"
            remote="github"
@@ -266,12 +263,12 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="GlitchKernel/android_manifest" remote="glitch" revision="ics" />
-  <project path="kernel/samsung/aries" name="GlitchKernel/Glitch" remote="glitch" revision="V14" />
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="glitch" revision="ics" />
-  <project path="device/samsung/aries-common" name="teamhacksung/android_device_samsung_aries-common" remote="THS" revision="ics" />
-  <project path="device/samsung/captivatemtd" name="teamhacksung/android_device_samsung_captivatemtd" remote="THS" revision="ics" />
-  <project path="device/samsung/fascinatemtd" name="teamhacksung/android_device_samsung_fascinatemtd" remote="THS" revision="ics" />
-  <project path="device/samsung/galaxysmtd" name="teamhacksung/android_device_samsung_galaxysmtd" remote="THS" revision="ics" />
+  <project path="android" name="GlitchKernel/android_manifest" remote="glitch" revision="gingerbread" />
+  <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" remote="glitch" revision="ics" />  
+  <project path="kernel/samsung/aries" name="GlitchKernel/Glitch" remote="glitch" revision="ICS_3.0.8" />
+  <project path="device/samsung/aries-common" name="GlitchKernel/android_device_samsung_aries-common" remote="glitch" revision="icecream" />
+  <project path="device/samsung/captivatemtd" name="GlitchKernel/android_device_samsung_captivatemtd" remote="glitch" revision="icecream" />
+  <project path="device/samsung/fascinatemtd" name="GlitchKernel/android_device_samsung_fascinatemtd" remote="glitch" revision="icecream" />
+  <project path="device/samsung/galaxysmtd" name="GlitchKernel/android_device_samsung_galaxysmtd" remote="glitch" revision="icecream" />
   <project path="device/samsung/vibrantmtd" name="GlitchKernel/android_device_samsung_vibrantmtd" remote="glitch" revision="icecream" />
 </manifest>
