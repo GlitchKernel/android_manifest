@@ -20,7 +20,7 @@
            sync-j="30" />
 
   <remote  name="glitch"
-           fetch="ssh://git@github.com" />
+           fetch="git://github.com/" />
 
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
