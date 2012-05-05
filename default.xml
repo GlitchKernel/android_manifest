@@ -272,7 +272,7 @@
   <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" remote="glitch" revision="ics-touch" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" revision="ics" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" remote="github" revision="ics" />
-  <project path="device/samsung/fascinatemtd" name="CyanogenMod/android_device_samsung_fascinatemtd" remote="github" revision="ics" />
+  <project path="device/samsung/fascinatemtd" name="teamhacksung/android_device_samsung_fascinatemtd" remote="THS" revision="ics" />
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" remote="github" revision="ics" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" revision="ics" />
 </manifest>
