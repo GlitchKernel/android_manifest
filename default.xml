@@ -268,7 +268,7 @@
 
   <project path="android" name="GlitchKernel/android_manifest" remote="glitch" revision="ics" />
   <project path="kernel/samsung/aries" name="GlitchKernel/Glitch" remote="glitch" revision="V14" />
-  <project path="vendor/proprietary" name="koush/proprietary_vendor_samsung" remote="github" revision="ics" />
+  <project path="vendor/samsung" name="koush/proprietary_vendor_samsung" remote="github" revision="ics" />
   <project path="bootable/recovery" name="GlitchKernel/android_bootable_recovery" remote="glitch" revision="ics-touch" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" revision="ics" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" remote="github" revision="ics" />
